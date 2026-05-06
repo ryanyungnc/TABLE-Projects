@@ -1,4 +1,5 @@
+.venv/
+*.wav
 .env
 __pycache__/
-venv/
-*.log
+*.pyc
